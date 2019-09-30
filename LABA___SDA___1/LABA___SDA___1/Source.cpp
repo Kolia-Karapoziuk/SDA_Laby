@@ -54,14 +54,12 @@ void quicksort_rows(int** matr, int i, int first, int last)
 		}
 	};
 
-
 	if (first < l) 
 		quicksort_rows(matr, i, first, l);
 
 	if (f < last) 
 		quicksort_rows(matr, i, f, last);
-
-
+	
 	ofstream outFile;
 	outFile.open("File_2.txt");
 
@@ -86,7 +84,6 @@ void print(int** arr)
 		cout << endl;
 	}
 }
-
 
 int main()
 {
