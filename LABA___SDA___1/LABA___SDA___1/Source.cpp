@@ -30,7 +30,7 @@ void Zap(int** arr)
 }
 
 void quicksort_rows(int** matr, int i, int first, int last)
-// ³ - the line number of which we sort
+// i - the line number of which we sort
 {
 	int mid, count,sc=0;
 	int f = first, l = last;
