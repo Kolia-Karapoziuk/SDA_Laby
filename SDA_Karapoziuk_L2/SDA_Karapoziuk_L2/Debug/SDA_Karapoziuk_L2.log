@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Admin z Gitaroy\source\repos\SDA_Karapoziuk_L2\SDA_Karapoziuk_L2\Source.cpp(67,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin z Gitaroy\source\repos\SDA_Karapoziuk_L2\SDA_Karapoziuk_L2\Source.cpp(72,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin z Gitaroy\source\repos\SDA_Karapoziuk_L2\SDA_Karapoziuk_L2\Source.cpp(88,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin z Gitaroy\source\repos\SDA_Karapoziuk_L2\SDA_Karapoziuk_L2\Source.cpp(112,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin z Gitaroy\source\repos\SDA_Karapoziuk_L2\SDA_Karapoziuk_L2\Source.cpp(127,24): warning C4101: 'array2': unreferenced local variable
+C:\Users\Admin z Gitaroy\source\repos\SDA_Karapoziuk_L2\SDA_Karapoziuk_L2\Source.cpp(127,6): warning C4101: 'array1': unreferenced local variable
+  SDA_Karapoziuk_L2.vcxproj -> C:\Users\Admin z Gitaroy\source\repos\SDA_Karapoziuk_L2\Debug\SDA_Karapoziuk_L2.exe
