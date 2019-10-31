@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (SDA_4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Admin z Gitaroy\source\repos\SDA_4\SDA_4\Source.cpp(32,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin z Gitaroy\source\repos\SDA_4\SDA_4\Source.cpp(63,23): warning C4018: '<': signed/unsigned mismatch
+  SDA_4.vcxproj -> C:\Users\Admin z Gitaroy\source\repos\SDA_4\Debug\SDA_Karapoziuk_L4.exe
